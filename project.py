@@ -1,5 +1,6 @@
 import tkinter
 import tkintermapview
+import requests
 
 
 def main():
@@ -26,17 +27,10 @@ def main():
     #map_widget.set_address(country_name)
     #map_widget.set_zoom(7)
 
-    custom_function_1()
-    custom_function_2()
     custom_function_3()
 
     window.mainloop()
 
-def custom_function_1():
-    ...
-
-def custom_function_2():
-    ...
 
 def custom_function_3():
     ...
